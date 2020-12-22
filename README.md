@@ -3,7 +3,7 @@
 
 ## Description
 
-In this notebook, I did an exploratory data analysis and a classification using **Random Forest model** to Kaggles [Hotel Booking dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand). Specifically, I 
+In this notebook, I did an exploratory data analysis and a classification using **Random Forest model** on Kaggle's [Hotel Booking dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand). Specifically, I 
 
  - analyzed the **general shape and columns** of the dataset
  - examined the **4 columns that contain missing values and if to impute or drop them** in the dataset
